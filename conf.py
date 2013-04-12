@@ -27,10 +27,10 @@ class PyTest(TestCommand):
 
 
 setup(
-    name='FormEncode-Jinja2',
+    name='ReadTheDocs',
     version='0.1.1',
-    author='Eunchong Yu',
-    author_email='kroisse@gmail.com',
+    author='Antz ODell',
+    author_email='antz@cox.co.uk',
     url='https://github.com/mangoswiki/ReadTheDocs',
     description=' test wiki',
     long_description=read_file('README.rst'),
@@ -40,8 +40,7 @@ setup(
     include_package_data=True,
     zip_safe=True,
     install_requires=[
-        'FormEncode',
-        'Jinja2',
+        'ReadTheDocs',
     ],
     extras_require={
         'doc': [
