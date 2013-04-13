@@ -4,13 +4,6 @@
 
 The Following sections outline Install procedures for first time Installs of MaNGOS.  If you're looking to Upgrade or otherwise maintain a currently operating installation of MaNGOS, Please refer to `MaNGOS Maintenance <MaNGOS Maintenance>`_.
 
-
-User Guides
------------
-
-* `Installation Guides <MaNGOS%20Installation>`_
-
-
 Linux
 -----
 
