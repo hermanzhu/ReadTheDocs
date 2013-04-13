@@ -20,7 +20,9 @@
 
 ----
 
-**Brought to you by** 
-`.. image:: http://getmangos.com/images/mangos_foundation.png <http://www.getmangos.com>`_
 
+**Brought to you by the** |MF|
+
+
+.. |MF| image:: http://getmangos.com/images/mangos_foundation.png 
 
