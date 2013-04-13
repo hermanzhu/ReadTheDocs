@@ -1,13 +1,4 @@
-FormEncode-Jinja2
-=================
+MaNGOS Wiki
+===========
 
-.. image:: https://travis-ci.org/mangoswiki/ReadTheDocs.png?branch=master
-  :alt: Build Status
-  :target: https://travis-ci.org/mangoswiki/ReadTheDocs
-
-ReadTheDocs is a `mangosowiki`_ extension 
-
-
-
-License
--------
+Welcome to the MaNGOS Wiki
