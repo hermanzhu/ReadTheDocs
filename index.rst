@@ -1,7 +1,7 @@
 **User Guides**
 ---------------
 
-* `Installation Guides <MaNGOSInstallation.rst>`_
+* `Installation Guides <MaNGOSInstallation.html>`_
 * `MaNGOs Maintenance <MaNGOS%20Maintenance>`_
 * `FAQ's <FAQ>`_
 
