@@ -1,4 +1,4 @@
-`Home <index>`_
+`Home <Index.rst>`_
 
 ---------------
 
