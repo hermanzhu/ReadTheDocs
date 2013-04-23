@@ -20,9 +20,17 @@
 
 ----
 
+.. hint::
 
-**Brought to you by the** |MF|
+Hopefully this is a nice looking hint section
 
 
-.. |MF| image:: http://getmangos.com/images/mangos_foundation.png 
+.. note::
+
+Hopefully this is a nice looking note section
+
+
+.. warning::
+
+Hopefully this is a nice looking warning section
 
